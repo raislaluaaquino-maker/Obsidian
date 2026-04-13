@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "aeb0684795930a24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teste.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teste"
+            }
+          },
+          {
             "id": "7c01249c4bc0c5b2",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Ig"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
+                "file": "Teste.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Mieloma múltiplo"
+              "title": "Sumário de Teste"
             }
           }
         ],
@@ -198,8 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8c2a65c4cb86349",
+  "active": "aeb0684795930a24",
   "lastOpenFiles": [
+    "Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
+    "Teste.md",
     "Pediatria",
     "Obsidian/Proteinúria de Bence Jones.md",
     "Obsidian/Pasted image 20260412223124.jpg",
@@ -218,7 +235,6 @@
     "Obsidian",
     "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatias monoclonais.md",
     "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatia Monoclonal de significado indeterminado.md",
-    "Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
     "Critérios para transplante de MO.md",
     "Pasted image 20260412223124.jpg",
     "Proteinúria de Bence Jones.md",
