@@ -194,11 +194,13 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da952a6e3b8d7746",
+  "active": "d8c2a65c4cb86349",
   "lastOpenFiles": [
+    "Pediatria",
     "Obsidian/Proteinúria de Bence Jones.md",
     "Obsidian/Pasted image 20260412223124.jpg",
     "Obsidian/Pasted image 20260412213933.jpg",
