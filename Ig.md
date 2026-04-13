@@ -1,0 +1,2 @@
+**Imunoglobulinas**
+Composta por duas cadeias polipeptídicas pesadas (da mesma classe IgG, IgA, IgD, IgE e IgM e subclasse) + duas cadeias polipeptídicas leves (do mesmo tipo kappa e lambda).![[Pasted image 20260412163856.png]]

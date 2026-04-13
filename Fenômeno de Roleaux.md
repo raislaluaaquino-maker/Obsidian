@@ -1,0 +1,1 @@
+![[Pasted image 20260412213933.jpg]]Alteração vista no esfregaço periférico de hemácias
