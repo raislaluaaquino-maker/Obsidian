@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste.md",
+                "file": "Pediatria/Teste.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste.md",
+                "file": "Pediatria/Teste.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aeb0684795930a24",
+  "active": "d8c2a65c4cb86349",
   "lastOpenFiles": [
     "Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
-    "Teste.md",
+    "Pediatria/Teste.md",
     "Pediatria",
     "Obsidian/Proteinúria de Bence Jones.md",
     "Obsidian/Pasted image 20260412223124.jpg",
