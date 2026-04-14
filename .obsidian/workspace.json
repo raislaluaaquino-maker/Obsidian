@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pediatria/Teste.md",
+                "file": "Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teste"
+              "title": "Mieloma múltiplo"
             }
           },
           {
@@ -185,21 +185,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pediatria/Teste.md",
+                "file": "Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Teste"
+              "title": "Sumário de Mieloma múltiplo"
+            }
+          },
+          {
+            "id": "884cb59d38e43ddb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,6 +226,8 @@
   "active": "d8c2a65c4cb86349",
   "lastOpenFiles": [
     "Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
+    "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatias monoclonais.md",
+    "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatia Monoclonal de significado indeterminado.md",
     "Pediatria/Teste.md",
     "Pediatria",
     "Obsidian/Proteinúria de Bence Jones.md",
@@ -233,8 +245,6 @@
     "Obsidian/Hematologia/Gamopatias",
     "Obsidian/Hematologia",
     "Obsidian",
-    "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatias monoclonais.md",
-    "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatia Monoclonal de significado indeterminado.md",
     "Critérios para transplante de MO.md",
     "Pasted image 20260412223124.jpg",
     "Proteinúria de Bence Jones.md",
