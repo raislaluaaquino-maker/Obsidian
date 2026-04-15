@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New.md",
+                "file": "Espirometria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New"
-            }
-          },
-          {
-            "id": "7c01249c4bc0c5b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ig.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ig"
+              "title": "Espirometria"
             }
           }
         ],
@@ -223,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,8 +225,14 @@
   },
   "active": "d17d32a210dfb7ba",
   "lastOpenFiles": [
+    "Pasted image 20260414215904.jpg",
+    "Pediatria/Asma.md",
+    "Espirometria.md",
+    "Asma.pdf",
+    "Pasted image 20260414121712.png",
+    "Pediatria/Distúrbios Obstrutivos.md",
     "Pediatria/Teste.md",
-    "New.md",
+    "Pneumo",
     "Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
     "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatias monoclonais.md",
     "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatia Monoclonal de significado indeterminado.md",
@@ -266,7 +258,7 @@
     "Fenômeno de Roleaux.md",
     "Pasted image 20260412213933.jpg",
     "2026-04-12.md",
-    "Ig.md",
+    "Hematologia/Gamopatias/Ig.md",
     "Bem-vindo.md",
     "Pasted image 20260412164942.png",
     "Pasted image 20260412163856.png",
