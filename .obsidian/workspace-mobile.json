@@ -11,14 +11,10 @@
             "id": "0ae661e588861989",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatia Monoclonal de significado indeterminado.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gamopatia Monoclonal de significado indeterminado"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -180,9 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ae661e588861989",
+  "active": "db861c70edd83630",
   "lastOpenFiles": [
-    "Sem título.base",
-    "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatia Monoclonal de significado indeterminado.md"
+    "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatia Monoclonal de significado indeterminado.md",
+    "New.md",
+    "/New.md",
+    "Sem título.base"
   ]
 }
