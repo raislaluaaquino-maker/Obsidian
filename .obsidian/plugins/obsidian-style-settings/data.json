@@ -1,5 +1,11 @@
 {
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
-  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-peach",
-  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-flamingo"
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-rosewater",
+  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-flamingo",
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-flamingo",
+  "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-pink",
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-sky",
+  "anuppuccin-theme-settings@@anp-h4-color-custom": "anp-h4-rosewater",
+  "anuppuccin-theme-settings@@anp-h6-color-custom": "anp-h6-teal"
 }
