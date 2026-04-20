@@ -8,49 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da952a6e3b8d7746",
+            "id": "29bc30358220cdce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mieloma múltiplo"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           },
           {
-            "id": "aeb0684795930a24",
+            "id": "4ce183e387970688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pediatria/Teste.md",
+                "file": "Pediatria/Infecções das vias aéreas Inferiores/Bronquiolite Viral Aguda (BVA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teste"
+              "title": "Bronquiolite Viral Aguda (BVA)"
             }
           },
           {
-            "id": "d17d32a210dfb7ba",
+            "id": "5ce2bea942ae362e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Espirometria.md",
+                "file": "Pediatria/Infecções das vias aéreas Inferiores/Coqueluche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Espirometria"
+              "title": "Coqueluche"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
+                "file": "Pediatria/Infecções das vias aéreas Inferiores/Bronquiolite Viral Aguda (BVA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Mieloma múltiplo"
+              "title": "Links inversos para Bronquiolite Viral Aguda (BVA)"
             }
           },
           {
@@ -209,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,50 +216,56 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d17d32a210dfb7ba",
+  "active": "4ce183e387970688",
   "lastOpenFiles": [
-    "Pasted image 20260414215904.jpg",
-    "Pediatria/Asma.md",
-    "Espirometria.md",
-    "Asma.pdf",
-    "Pasted image 20260414121712.png",
-    "Pediatria/Distúrbios Obstrutivos.md",
-    "Pediatria/Teste.md",
-    "Pneumo",
+    "Pediatria/Infecções das vias aéreas Inferiores/Pneumonias.md",
+    "Pediatria/Infecções das vias aéreas Inferiores/Coqueluche.md",
+    "Pediatria/Infecções das vias aéreas Inferiores/Bronquiolite Viral Aguda (BVA).md",
+    "Pediatria/Infecções das vias aéreas Inferiores/COVID-19.md",
+    "about_intro.aab897c.svg",
+    "Pediatria/IVAS/Faringoamigdalite bacteriana.md",
+    "Pasted image 20260419195638.jpg",
+    "Pasted image 20260419193904.png",
+    "Pasted image 20260419184948.jpg",
+    "Pediatria/Infecções das vias aéreas Inferiores/Síndrome Inflamatória Multissistêmica Pediátrica.md",
+    "Pediatria/Infecções das Vias aéreas intermediárias/Infecções das Vias Aéreas intermediárias.md",
+    "Pediatria/Infecções das vias aéreas Inferiores",
+    "Pediatria/Infecções das Vias aéreas intermediárias/Laringotraqueobronquite Aguda.md",
+    "Pediatria/IVAS/OMA.md",
+    "Pediatria/Infecções das Vias aéreas intermediárias/Epiglotite aguda.md",
+    "Pasted image 20260419101335.png",
+    "Pasted image 20260419101200.png",
+    "Pasted image 20260419100627.jpg",
+    "Pediatria/Infecções das Vias aéreas intermediárias/Crupe.md",
+    "Pediatria/Distúrbios obstrutivos/Distúrbios Obstrutivos.md",
+    "Pediatria/Distúrbios obstrutivos",
+    "Pediatria/IVAS",
+    "Pediatria/Infecções das Vias aéreas intermediárias",
+    "Pediatria/IVAS/IVAS.md",
+    "Pasted image 20260418225800.png",
+    "Pasted image 20260418223047.png",
+    "Excalidraw/Drawing 2026-04-18 15.42.09.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-18 15.41.14.excalidraw.md",
+    "Excalidraw",
+    "Pediatria/IVAS/Sinusite bacteriana aguda.md",
+    "Pediatria/Distúrbios obstrutivos/Asma.md",
+    "Pasted image 20260417161105.png",
+    "Hematologia/Anemias.md",
+    "Raquitismo.md",
+    "Gastro/Criptosporidiose.md",
+    "Zonas de Looser.md",
+    "Raquitismo ligado ao X (xlhr).md",
+    "Pediatria/Nutrição na Infância.md",
+    "Sem título.base",
+    "Síndrome de Fanconi.md",
     "Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
-    "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatias monoclonais.md",
-    "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatia Monoclonal de significado indeterminado.md",
-    "Pediatria",
-    "Obsidian/Proteinúria de Bence Jones.md",
-    "Obsidian/Pasted image 20260412223124.jpg",
-    "Obsidian/Pasted image 20260412213933.jpg",
-    "Obsidian/Pasted image 20260412164942.png",
-    "Obsidian/Pasted image 20260412163856.png",
-    "Obsidian/Ig.md",
-    "Obsidian/Fenômeno de Roleaux.md",
-    "Obsidian/Critérios para transplante de MO.md",
-    "Obsidian/Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
-    "Obsidian/Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatias monoclonais.md",
-    "Obsidian/Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatia Monoclonal de significado indeterminado.md",
-    "Obsidian/Hematologia/Gamopatias/Gamopatias monoclonais",
-    "Obsidian/Hematologia/Gamopatias",
-    "Obsidian/Hematologia",
-    "Obsidian",
-    "Critérios para transplante de MO.md",
-    "Pasted image 20260412223124.jpg",
-    "Proteinúria de Bence Jones.md",
-    "Fenômeno de Roleaux.md",
-    "Pasted image 20260412213933.jpg",
-    "2026-04-12.md",
-    "Hematologia/Gamopatias/Ig.md",
-    "Bem-vindo.md",
-    "Pasted image 20260412164942.png",
-    "Pasted image 20260412163856.png",
-    "Hematologia/Gamopatias/Gamopatias monoclonais",
-    "Hematologia/Gamopatias",
-    "Hematologia"
+    "Gastro",
+    "Asma ok.pdf",
+    "Asma.pdf",
+    "Pneumo"
   ]
 }
