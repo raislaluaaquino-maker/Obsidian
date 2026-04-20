@@ -11,10 +11,14 @@
             "id": "0ae661e588861989",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Pediatria/Asma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asma"
             }
           }
         ]
@@ -176,8 +180,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db861c70edd83630",
+  "active": "0ae661e588861989",
   "lastOpenFiles": [
+    "Pediatria/Distúrbios Obstrutivos.md",
+    "Pediatria/Asma.md",
+    "Pasted image 20260414215904.jpg",
+    "Pasted image 20260414121712.png",
+    "Espirometria.md",
+    "Asma.pdf",
+    "/Pediatria/Distúrbios Obstrutivos.md",
+    "/Pediatria/Asma.md",
+    "/Pasted image 20260414215904.jpg",
+    "/Pasted image 20260414121712.png",
+    "/Espirometria.md",
+    "/Asma.pdf",
+    "/Hematologia/Gamopatias/Ig.md",
+    "Hematologia/Gamopatias/Ig.md",
+    "/Hematologia/Gamopatias",
+    "/Hematologia",
+    "/Pediatria",
     "Hematologia/Gamopatias/Gamopatias monoclonais/Gamopatia Monoclonal de significado indeterminado.md",
     "New.md",
     "/New.md",
