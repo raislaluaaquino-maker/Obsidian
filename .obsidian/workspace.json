@@ -32,6 +32,20 @@
             }
           },
           {
+            "id": "7466960cb50aa10b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oftalmo/Conjuntivite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conjuntivite"
+            }
+          },
+          {
             "id": "5ce2bea942ae362e",
             "type": "leaf",
             "state": {
@@ -46,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pediatria/Infecções das vias aéreas Inferiores/Bronquiolite Viral Aguda (BVA).md",
+                "file": "Oftalmo/Conjuntivite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +143,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Bronquiolite Viral Aguda (BVA)"
+              "title": "Links inversos para Conjuntivite"
             }
           },
           {
@@ -220,52 +234,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4ce183e387970688",
+  "active": "7466960cb50aa10b",
   "lastOpenFiles": [
+    "Trauma ocular.md",
+    "translated_image_pt.png",
+    "Oftalmo/Síndrome do Olho vermelho.md",
+    "Oftalmo/Esclerite.md",
+    "Pasted image 20260421184919.png",
+    "Pasted image 20260421184325.jpg",
+    "Pasted image 20260421184147.jpg",
+    "Oftalmo/Glaucoma agudo.md",
+    "Oftalmo/Conjuntivite.md",
+    "Oftalmo/Uveíte.md",
+    "Oftalmo/Glaucoma de ângulo fechado.md",
+    "Oftalmo/Ceratite.md",
+    "Pasted image 20260421174030.jpg",
+    "Pasted image 20260421172630.jpg",
+    "Pasted image 20260421155039.png",
+    "Pasted image 20260421152601.jpg",
+    "Pasted image 20260421150955.jpg",
+    "Pediatria/Infecções das vias aéreas Inferiores/Bronquiolite Viral Aguda (BVA).md",
+    "Oftalmo",
     "Pediatria/Infecções das vias aéreas Inferiores/Pneumonias.md",
     "Pediatria/Infecções das vias aéreas Inferiores/Coqueluche.md",
-    "Pediatria/Infecções das vias aéreas Inferiores/Bronquiolite Viral Aguda (BVA).md",
     "Pediatria/Infecções das vias aéreas Inferiores/COVID-19.md",
     "about_intro.aab897c.svg",
     "Pediatria/IVAS/Faringoamigdalite bacteriana.md",
-    "Pasted image 20260419195638.jpg",
-    "Pasted image 20260419193904.png",
-    "Pasted image 20260419184948.jpg",
     "Pediatria/Infecções das vias aéreas Inferiores/Síndrome Inflamatória Multissistêmica Pediátrica.md",
     "Pediatria/Infecções das Vias aéreas intermediárias/Infecções das Vias Aéreas intermediárias.md",
     "Pediatria/Infecções das vias aéreas Inferiores",
     "Pediatria/Infecções das Vias aéreas intermediárias/Laringotraqueobronquite Aguda.md",
     "Pediatria/IVAS/OMA.md",
     "Pediatria/Infecções das Vias aéreas intermediárias/Epiglotite aguda.md",
-    "Pasted image 20260419101335.png",
-    "Pasted image 20260419101200.png",
-    "Pasted image 20260419100627.jpg",
     "Pediatria/Infecções das Vias aéreas intermediárias/Crupe.md",
     "Pediatria/Distúrbios obstrutivos/Distúrbios Obstrutivos.md",
     "Pediatria/Distúrbios obstrutivos",
     "Pediatria/IVAS",
     "Pediatria/Infecções das Vias aéreas intermediárias",
     "Pediatria/IVAS/IVAS.md",
-    "Pasted image 20260418225800.png",
-    "Pasted image 20260418223047.png",
     "Excalidraw/Drawing 2026-04-18 15.42.09.excalidraw.md",
     "Excalidraw/Drawing 2026-04-18 15.41.14.excalidraw.md",
     "Excalidraw",
     "Pediatria/IVAS/Sinusite bacteriana aguda.md",
     "Pediatria/Distúrbios obstrutivos/Asma.md",
-    "Pasted image 20260417161105.png",
-    "Hematologia/Anemias.md",
-    "Raquitismo.md",
-    "Gastro/Criptosporidiose.md",
-    "Zonas de Looser.md",
-    "Raquitismo ligado ao X (xlhr).md",
-    "Pediatria/Nutrição na Infância.md",
     "Sem título.base",
-    "Síndrome de Fanconi.md",
-    "Hematologia/Gamopatias/Gamopatias monoclonais/Mieloma múltiplo.md",
     "Gastro",
     "Asma ok.pdf",
-    "Asma.pdf",
-    "Pneumo"
+    "Asma.pdf"
   ]
 }
