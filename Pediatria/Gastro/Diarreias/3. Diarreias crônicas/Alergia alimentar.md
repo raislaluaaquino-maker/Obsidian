@@ -1,0 +1,6 @@
+- IgE
+	- Até 2 horas da ingestão;
+	- Sinais e sintomas específicos de alergia (urticária, anafilaxia);
+- Não IgE
+	- Dias ou semanas após a ingestão;
+	- Sinais e sintomas inespecíficos (procticolite, FPIES);

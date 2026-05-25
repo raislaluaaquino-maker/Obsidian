@@ -1,0 +1,4 @@
+- Grupo de patologias que podem se apresentar com a tríade clínica:
+	- Injúria renal aguda;
+	- Anemia microangiopática (esquizócitos);
+	- Plaquetopenia;

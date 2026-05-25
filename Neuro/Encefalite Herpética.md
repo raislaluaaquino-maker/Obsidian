@@ -1,0 +1,8 @@
+- Alterações comportamentais/personalidade;
+- RNC;
+- Déficit focal (motor ou sensitivo);
+- Crises convulsivas;
+- Febre e alterações comportamentais;
+- RMN: Hipersinal T2 em lobos temporais;
+- DX: padrão ouro PCR para HSV no LCR;
+- Tratamento: Aciclovir EV por 10-14 dias;

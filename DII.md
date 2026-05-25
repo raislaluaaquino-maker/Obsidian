@@ -1,0 +1,1 @@
+- Diarreia com sangue;

@@ -1,0 +1,3 @@
+- Avaliação urgente: definir se é maligno, se comprime órgãos vitais e se existe hemorragia;
+- Idade: em RNs, geralmente são benignos| em lactentes e crianças, a malignidade é mais provável;
+- Tumores abdominais mais comuns na infância [[Nefroblastoma ou Tumor de Wilms]] e Neuroblastoma;
