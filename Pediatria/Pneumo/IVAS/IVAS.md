@@ -1,4 +1,4 @@
-→Relacionados: [[Faringoamigdalite bacteriana]]
+→Relacionados: [[Faringoamigdalite bacteriana]]; [[Febre periódica com estomatite aftosa e adenite]]
 - Infecção mais frequente nas crianças
 - Curso geralmente benigno;
 - Crianças saudáveis podem viver resfriadas → 8-12 episódios por ano;

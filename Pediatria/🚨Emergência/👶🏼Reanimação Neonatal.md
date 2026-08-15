@@ -55,7 +55,7 @@
 	- Pode fazer o ventilador manual em T;
 	- Técnica adequada → aperta/solta/solta;
 	- Monitorização;
-	- Fonte de oxigênio;
+	- Fonte de oxigênio: em <34s deve ser iniciada com FiO2 de 30% enquanto em maiores deve-se começar com ar ambiente.
 	- Posicionamento da equipe;
 ### Se a VPP com máscara não for efetiva (FC<100 e/ou respiração irregular) considera-se o uso de **máscara laríngea** como interface de VPP para RN>34s e >2kg;
 

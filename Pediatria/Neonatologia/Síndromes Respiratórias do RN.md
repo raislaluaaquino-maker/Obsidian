@@ -1,4 +1,6 @@
 - [[#Síndrome do Desconforto respiratório/Doença da membrana Hialina]];
+- [[#Apneia da Prematuridade]].
+- [[#Síndrome de escape do ar por rompimento da bainha broncoalveolar]].
 - [[#Taquipneia transitória do recém nascido]];
 - [[#Pneumonia]];
 - [[#Síndrome de Aspiração Meconial]];
@@ -112,6 +114,12 @@
 		- Técnicas de administração
 			- Minimamente invasiva
 			- INSURE
+# Apneia da prematuridade
+- RN nascidos antes de 34 semanas, decorrente da imaturidade do controle respiratório central. 
+- Caracteriza-se por pausas respiratórias ≥20 segundos ou pausas menores (10-15s) associadas à bradicardia e/ou dessaturação. 
+- ==A cafeína é o tratamento de eleição==, pois estimula o centro respiratório, aumenta a sensibilidade ao CO₂, melhora a contratilidade diafragmática e reduz episódios de apneia. 
+# Síndrome de escape do ar por rompimento da bainha broncoalveolar
+- Ventilação com pressão positiva em neonatos, especialmente prematuros, pode romper alvéolos imaturos por baro ou volutrauma → escape de ar (pneumotórax, enfisema intersticial). Surgimento muito precoce de desconforto após início de VPP sugere barotrauma.
 # Taquipneia transitória do recém nascido
 - ==Síndrome do pulmão úmido==;
 	- Retardo na absorção/eliminação do líquido pulmonar.

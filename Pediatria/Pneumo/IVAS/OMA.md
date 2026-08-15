@@ -109,4 +109,4 @@ História de resfriado prévio
 - Otite média supurada + paralisia do reto lateral + dor orbitária → Tríade de Grandenigo
 - Secundário á OMA ou OMC → Etiologia comum
 - Aumento do volume retroauricular + desvio anterior do pavilhão auricular + edema, calor e rubor da região mastoide;
-==Internar + ATB parenteral + TC de crânio + Drenagem do abcesso==
+==Internar + ATB parenteral (oxaciclina + ceftriaxona) + TC de crânio + Drenagem do abcesso==

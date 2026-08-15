@@ -1,0 +1,1 @@
+![[c2ba715f-efbf-4539-ade5-91e91f4eb94e_Osteoporose.pdf]]
