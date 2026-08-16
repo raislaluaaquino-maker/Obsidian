@@ -1,0 +1,103 @@
+{
+  "styles": {
+    "Cirurgia": {
+      "backgroundColor": "#a81515",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "isItalic": false,
+      "opacity": 0.8,
+      "applyToSubfolders": true
+    },
+    "Cardio": {
+      "backgroundColor": "#f52e4c",
+      "isBold": true,
+      "textColor": "#ffffff",
+      "applyToSubfolders": true
+    },
+    "Emergências Clínicas": {
+      "backgroundColor": "#0005a3",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "opacity": 0.6,
+      "applyToSubfolders": true
+    },
+    "Preventiva": {
+      "backgroundColor": "#34fe67",
+      "textColor": "#fafafa",
+      "isBold": true,
+      "opacity": 0.7,
+      "applyToSubfolders": true
+    },
+    "Gastro": {
+      "backgroundColor": "#ff7033",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "opacity": 0.8,
+      "applyToSubfolders": true
+    },
+    "Gineco": {
+      "backgroundColor": "#ea53ba",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "opacity": 0.7,
+      "applyToSubfolders": true
+    },
+    "Neuro": {
+      "backgroundColor": "#61036d",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "opacity": 0.6,
+      "applyToSubfolders": true
+    },
+    "Pediatria": {
+      "textColor": "#ffffff",
+      "isBold": true,
+      "backgroundColor": "#e89afe",
+      "opacity": 0.6,
+      "applyToSubfolders": true
+    },
+    "Oftalmo": {
+      "backgroundColor": "#60d2cb",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "opacity": 0.5,
+      "applyToSubfolders": true
+    },
+    "Ortopedia": {
+      "backgroundColor": "#757eff",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "opacity": 0.5,
+      "applyToSubfolders": true
+    },
+    "Hematologia": {
+      "textColor": "#ffffff",
+      "backgroundColor": "#7f2e2e",
+      "isBold": true,
+      "opacity": 0.6,
+      "applyToSubfolders": true
+    },
+    "Infecto": {
+      "backgroundColor": "#cff939",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "opacity": 0.5,
+      "applyToSubfolders": true
+    },
+    "Urologia": {
+      "textColor": "#ffffff",
+      "isBold": true,
+      "backgroundColor": "#fea101",
+      "opacity": 0.5
+    },
+    "Reumatologia": {
+      "backgroundColor": "#12542b",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "opacity": 0.6,
+      "applyToSubfolders": true
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
