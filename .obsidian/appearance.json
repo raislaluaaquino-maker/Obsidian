@@ -1,1 +1,8 @@
-{}
+{
+  "enabledCssSnippets": [
+    "matcha (1)"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "accentColor": "#f55c8a"
+}

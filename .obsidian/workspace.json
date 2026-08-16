@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cirurgia/Cirurgia Bariátrica.md",
+                "file": "Cirurgia/Cirurgia Ped/Fimose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cirurgia Bariátrica"
+              "title": "Fimose"
             }
           }
         ],
@@ -281,6 +281,7 @@
   },
   "active": "96375f0918309d06",
   "lastOpenFiles": [
+    "Cirurgia/Cirurgia Bariátrica.md",
     "Cirurgia/Hérnias.md",
     "Cirurgia/Cirurgia Ped/Fimose.md",
     "Preventiva/Vigilância em Saúde e Saúde do trabalhador/Teste.md",
@@ -324,7 +325,6 @@
     "Urologia",
     "Preventiva/Testes Diagnósticos.md",
     "Preventiva/Indicadores de Saúde- Morbidade.md",
-    "Preventiva/Indicadores de Saúde- Mortalidade.md",
     "PROTOCOLO CIRURGIA SEGURA.pdf",
     "c2ba715f-efbf-4539-ade5-91e91f4eb94e_Osteoporose.pdf",
     "Cirurgia/Cirurgia Ped/Tumores abdominais/Tumores abdominais.canvas"
