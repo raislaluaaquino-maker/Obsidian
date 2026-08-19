@@ -23,6 +23,19 @@
             }
           ],
           "title": "Cirurgia"
+        },
+        {
+          "type": "group",
+          "ctime": 1786963090102,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1786963090103,
+              "path": "Cardio/Insuficiência Cardíaca.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Cardio"
         }
       ],
       "title": "sortspec"
