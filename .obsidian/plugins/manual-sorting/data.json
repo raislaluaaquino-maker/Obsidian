@@ -2,6 +2,11 @@
   "customOrder": {
     "/": {
       "children": [
+        "photo_4911422225878027486_w.jpg",
+        "photo_4911422225878027489_x.jpg",
+        "photo_4911422225878027490_y.jpg",
+        "photo_4911422225878027491_y.jpg",
+        "photo_4911422225878027492_y.jpg",
         "Sem título 2.md",
         "photo_4911422225878027484_y.jpg",
         "photo_4911422225878027483_y.jpg",
@@ -42,7 +47,6 @@
         "photo_4911422225878027410_y.jpg",
         "photo_4911422225878027409_y.jpg",
         "Endocrinologia",
-        "Sem título",
         "Pasted image 20260815170332.png",
         "Pasted image 20260815165705.png",
         "BASES_SANGRAMENTO_UTERINO_ANORMAL_ACOMPANHAMENTO_20260313015606.pdf",
@@ -513,8 +517,7 @@
         "Síndrome de Fanconi.md",
         "Trauma ocular.md",
         "Zonas de Looser.md",
-        "Arquivos exportados",
-        "Excalidraw"
+        "Arquivos exportados"
       ],
       "sortOrder": "custom"
     },
@@ -548,21 +551,6 @@
       ],
       "sortOrder": "custom"
     },
-    "Arquivos exportados": {
-      "children": [
-        "Arquivos exportados/Asma.pdf",
-        "Arquivos exportados/Glaucoma de ângulo fechado.pdf",
-        "Arquivos exportados/Tumores do Colo Uterino.pdf",
-        "Arquivos exportados/Ceratite.pdf",
-        "Arquivos exportados/Conjuntivite.pdf",
-        "Arquivos exportados/Asma ok.pdf",
-        "Arquivos exportados/Esclerite.pdf",
-        "Arquivos exportados/Uveíte.pdf",
-        "Arquivos exportados/Glaucoma agudo.pdf",
-        "Arquivos exportados/Síndrome do Olho vermelho.pdf"
-      ],
-      "sortOrder": "custom"
-    },
     "Cardio": {
       "children": [
         "Cardio/Insuficiência Cardíaca.md",
@@ -577,6 +565,21 @@
         "Cardio/Arritmias, Síncope e PCR/Taquiarritmias.md",
         "Cardio/Arritmias, Síncope e PCR/Bradiarritmias.md",
         "Cardio/Arritmias, Síncope e PCR/Síncope.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Arquivos exportados": {
+      "children": [
+        "Arquivos exportados/Asma.pdf",
+        "Arquivos exportados/Glaucoma de ângulo fechado.pdf",
+        "Arquivos exportados/Tumores do Colo Uterino.pdf",
+        "Arquivos exportados/Ceratite.pdf",
+        "Arquivos exportados/Conjuntivite.pdf",
+        "Arquivos exportados/Asma ok.pdf",
+        "Arquivos exportados/Esclerite.pdf",
+        "Arquivos exportados/Uveíte.pdf",
+        "Arquivos exportados/Glaucoma agudo.pdf",
+        "Arquivos exportados/Síndrome do Olho vermelho.pdf"
       ],
       "sortOrder": "custom"
     },
@@ -599,13 +602,6 @@
         "Endocrinologia/Diabetes Mellitus/Diabetes Mellitus.md",
         "Endocrinologia/Diabetes Mellitus/Complicações Agudas.md",
         "Endocrinologia/Diabetes Mellitus/Complicações Crônicas.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Excalidraw": {
-      "children": [
-        "Excalidraw/Drawing 2026-04-18 15.41.14.excalidraw.md",
-        "Excalidraw/Drawing 2026-04-18 15.42.09.excalidraw.md"
       ],
       "sortOrder": "custom"
     },
