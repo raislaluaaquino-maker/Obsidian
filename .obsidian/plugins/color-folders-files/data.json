@@ -96,6 +96,20 @@
       "isBold": true,
       "opacity": 0.6,
       "applyToSubfolders": true
+    },
+    "Pneumologia": {
+      "backgroundColor": "#8adaea",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "opacity": 0.5
+    },
+    "Endocrinologia": {
+      "textColor": "#6e6e6e",
+      "backgroundColor": "#74fbd9",
+      "isBold": true,
+      "opacity": 0.5,
+      "applyToSubfolders": true
     }
   },
   "presets": {},
