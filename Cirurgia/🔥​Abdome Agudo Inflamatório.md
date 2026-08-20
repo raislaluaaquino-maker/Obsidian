@@ -177,7 +177,7 @@
 - Náuseas e vômitos;
 - Pode alterar hábito intestinal;
 - Investigar história de sangramento baixo;
-	- [[Doença Inflamatória Intestinal]];
+	- [[Pediatria/Gastro/Diarreias/3. Diarreias crônicas/Doença Inflamatória Intestinal]];
 - Pode ter defesa (voluntária ou involuntária);
 - Pode ter massa palpável;
 - Pode ter peritonite;

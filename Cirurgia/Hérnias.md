@@ -78,6 +78,7 @@ Pede-se para o paciente tossir ou fazer força
 ![[Pasted image 20260806093407.png]]
 - ==Lichtenstein==: tela no tendão conjunto, no ligamento inguinal  + ponto no pube (não serve para hérnia femoral) (<1% de recidiva).
 - ==Bassini==: Muita recidiva (30%) e complicações pós-operatórias.
+>[!warning] Hérnia inguinal de rotina→ Lichtenstein de rotina; Shouldice e Bacine ficaram no passado. Laparoscopia é opção em casos bilaterais recidivados.
 ## Técnica de STOPPA
 ![[Captura de tela 2026-08-06 093604.png]]
 - Grande tela na região pré-peritoneal (região posterior);

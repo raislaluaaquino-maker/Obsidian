@@ -16,7 +16,7 @@
 		- Anterior
 			- HLAB27 ([[Espondilite anquilosante]]);
 			- [[Artrite Idiopática Juvenil]];
-			- [[Doença Inflamatória Intestinal]];
+			- [[Pediatria/Gastro/Diarreias/3. Diarreias crônicas/Doença Inflamatória Intestinal]];
 			- [[Sarcoidose]];
 			- [[Doença de Behçet]];
 			- [[Nefrite túbulo intersticial]];
