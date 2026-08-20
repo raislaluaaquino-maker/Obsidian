@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardio/Insuficiência Cardíaca.md",
+                "file": "Endocrinologia/Diabetes Mellitus/Complicações Agudas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Insuficiência Cardíaca"
+              "title": "Complicações Agudas"
             }
           }
         ]
@@ -51,7 +51,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Dia",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -105,7 +105,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "6cc849b9aa2703b9",
@@ -186,13 +186,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "fa20af2609a9bfee",
+  "active": "0729b81a2edf448f",
   "lastOpenFiles": [
+    "Cardio/Insuficiência Cardíaca.md",
+    "Cardio/Arritmias, Síncope e PCR/Arritmias, Síncope e PCR.md",
+    "Endocrinologia/Diabetes Mellitus/Complicações Agudas.md",
+    "Endocrinologia/Diabetes Mellitus/Diabetes Mellitus.md",
     "Emergências Clínicas/Avaliação Inicial ao Politraumatizado.md",
     "Cirurgia/🫃​Abdomen Agudo.md",
-    "Cardio/Insuficiência Cardíaca.md",
     "Cardio/Arritmias, Síncope e PCR/Bradiarritmias.md",
-    "Cardio/Arritmias, Síncope e PCR/Arritmias, Síncope e PCR.md",
     "Pediatria/Distúrbios obstrutivos/Asma.md",
     "Cirurgia/Hérnias.md",
     "Gastro/Criptosporidiose.md",
