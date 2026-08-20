@@ -51,7 +51,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Dia",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -105,7 +105,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "6cc849b9aa2703b9",
@@ -158,9 +158,19 @@
           "icon": "lucide-list",
           "title": "Sumário"
         }
+      },
+      {
+        "id": "7af81b507dec32b9",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +186,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "0729b81a2edf448f",
+  "active": "fa20af2609a9bfee",
   "lastOpenFiles": [
     "Emergências Clínicas/Avaliação Inicial ao Politraumatizado.md",
     "Cirurgia/🫃​Abdomen Agudo.md",
