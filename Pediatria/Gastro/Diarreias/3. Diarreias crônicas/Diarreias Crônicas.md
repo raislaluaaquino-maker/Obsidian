@@ -6,5 +6,5 @@
 - [[APLV]];
 - [[Fibrose Cística]];
 - [[Parasitoses]];
-- [[Doença Inflamatória Intestinal]];
+- [[Pediatria/Gastro/Diarreias/3. Diarreias crônicas/Doença Inflamatória Intestinal]];
 - Funcionais, linfangectasia intestinal;

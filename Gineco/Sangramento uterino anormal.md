@@ -182,7 +182,7 @@ Invasão benigna do endométrio além de 2,5mm de profundidade, ou, no mínimo, 
 - Histórico familiar;
 → Fatores de proteção:
 - Paridade;
-- Anticoncepcionais combinados orais;
+- Anticoncepcionais combinados orais (sem comprovação documentada);
 - Tabagismo.
 ![[Pasted image 20260815154746.png]]
 #### Clínica
@@ -243,7 +243,7 @@ Invasão benigna do endométrio além de 2,5mm de profundidade, ou, no mínimo, 
 - Pós-menopausa
 	- Sem TH:
 		- Sangramento e EE≥4-5mm;
-		- EE <4mm e sangramento persistente;
+		- EE >4mm e sangramento persistente;
 		- Endométrio heterogêneo ou não visto ao USG.
 	- Com TH:
 		- Assintomática, EE>8 mm;
@@ -284,7 +284,7 @@ Invasão benigna do endométrio além de 2,5mm de profundidade, ou, no mínimo, 
 	- Histerectomia + Salpingectomia bilateral (pós-menopausa ou prole definida); → A oofarectomia é indicada pela FEBRASGO (indicação divergente na literatura);
 → Fatores de Risco:
 - Idade mais avançada (50-70 anos);
-- SOP;
+- SOP; → ciclos anovulatórios.
 - Obesidade;
 - DM/HASC;
 - Uso de tamoxifêno;

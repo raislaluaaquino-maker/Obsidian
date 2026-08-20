@@ -36,6 +36,9 @@
 - Hipotrofia glútea;
 - Alterações neurológicas e psiquiátricas;
 → Alguns pacientes podem se mostrar inclusive **assintomáticas**, mostrando apenas alterações sorológicas e histológicas;
+- Parente de primeiro grau;
+- Doenças autoimunes ou deficiência seletiva de IgA;
+- Síndrome de down, turnner e willians.
 # Diagnóstico
 >[!note] Se suspeita
 >IgA + anti-TG IgA
@@ -44,6 +47,7 @@
 
 - ==Cuidado com menores de 2 anos==: 
 	- Mesmo com marcadores sorológicos negativos se a suspeição clínica é alta 
+→==Biópsia é o padrão ouro==: com atrofia de vilosidades + infiltrado linfocitário intraeptelial;
 # Relações
 - Relação com HLA DQ2 e DQ8;
 	- Se veio negativo → improvável ser negativo;
@@ -52,3 +56,5 @@
 	- Possuir secreção normal de IgA;
 # Tratamento 
 - Exclusão do glúten da dieta após o diagnóstico definitivo;
+- Orientações aos pacientes e pais;
+- Evitar transgressões voluntárias e involuntárias.
