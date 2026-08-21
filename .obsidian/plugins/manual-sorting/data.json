@@ -2,7 +2,6 @@
   "customOrder": {
     "/": {
       "children": [
-        "Sem título",
         "Endocrinologia",
         "Sistema-de-conducao-eletrica-do-coracao.webp",
         "Reumatologia",
@@ -194,6 +193,7 @@
     },
     "Imagens": {
       "children": [
+        "Imagens/Pasted image 20260820174550.jpg",
         "Imagens/Pasted image 20260820172523.png",
         "Imagens/Pasted image 20260820170513.png",
         "Imagens/2026-04-16.md",
@@ -1056,10 +1056,6 @@
       "children": [
         "Reumatologia/Febre Reumática.md"
       ],
-      "sortOrder": "custom"
-    },
-    "Sem título": {
-      "children": [],
       "sortOrder": "custom"
     },
     "Urologia": {
