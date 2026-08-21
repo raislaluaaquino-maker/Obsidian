@@ -17,7 +17,7 @@
 - Adenopatia cervical dolorosa.
 ![[Pasted image 20260806110729.png]]
 ## Cardite
-- Início: 1-4 semnas após episódio de faringoamigdalite;
+- Início: 1-4 semanas após episódio de faringoamigdalite;
 - Mais importante: morte ou sequela tardia;
 - Pancardite: pericárdio, miocárdio e endocárdio;
 - Quadro clínico: taquicardia, ritmo de galope, sopro novo, atrito pericárdico;
@@ -25,7 +25,7 @@
 ![[Pasted image 20260806111418.png]]
 - Subliclínica, leve, moderada ou grave.
 ### Subclínica
-- Sinais e sintomas sutis com alterações apenas em exames complemetraes;
+- Sinais e sintomas sutis com alterações apenas em exames complementares;
 - Exame físico e RX de tórax normais;
 - ECG: PR e QT alargados ou normal;
 	- Exame obrigatório em todas as crianças com suspeita;
@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=wTCnbga3sqg
 		- <25 kg: 600.000 UI;
 		- ≥ 25 kg: 1,2 milhões UI.
 - Artrite
-	- AAS: 100 mg/kg/dia 4z ao dia;
+	- AAS: 100 mg/kg/dia 4x ao dia;
 	- Se melhora (02 semanas): reduz para 60 mg/kg/dia e manter por 4 semanas;
 	- Opção: naproxeno 10-20 mg/kg/dia 2x ao dia.
 	- Resposta dramática (24-48 h);
