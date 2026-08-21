@@ -1,8 +1,9 @@
-![[Captura de tela 2026-08-06 092228.png]]- Conteúdo que se insinua onde ela não deveria estar;
+![[Captura de tela 2026-08-06 092228.png]]-
+- Conteúdo que se insinua onde ela não deveria estar;
 - 5% da população mundial (hérnias da parede abdominal); → delas 80% são inguinais (diretas ou indiretas);
 - Anatomia:
-	- Pele
-	- Tecido Subcutâneo;
+	- Pele (epiderme + derme)
+	- Hipoderme (Tecido Subcutâneo);
 	- Músculo oblíquo externo;
 	- Músculo oblíquo interno;
 	- Músculo transverso;
@@ -34,7 +35,7 @@
 	- MD (abreviatura para médico em inglês)→ hénias **M**ediais são **D**iretas;
 - Hérnias laterais aos vasos epigásticos inferiores→ hérnias indiretas;
 # Incidência
-- Sexo: Masculino >>>>>>> Fe,inino
+- Sexo: Masculino >>>>>>> Feminino
 	- Feminino: mais comuns são a femural, obturatória e umbilical.
 - Diretas;
 	- Adquirida;
