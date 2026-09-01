@@ -8,6 +8,7 @@
 - Variável em tempo e intensidade (períodos assintomáticos e hipersintomáticos);
 # Fisiopatologia
 - Inflamação→ Hiperreatividade brônquica→ obstrução das vias aéreas inferiores;
+- Interação entre fatores genéticos e fatores ambientais;
 >[!warning]
 >**Asma alérgica** ou seja, mediada principalmente por resposta *Th2/IgE*.
 - Diferentes fenótipos:
@@ -17,6 +18,11 @@
 	- De início tardio (mais comum em adultos);
 	- Relacionada á obesidade;
 	- Obstrução fixa;
+→==Tipos==:
+- Asma eosinofílica: Inflamação T2 alta- interleucinas 4,5 e 13;
+	- Mais comum;
+- Asma não-eosinofílica: Inflamação T2 baixa- interleucinas 1 e 17.
+	- Menos responsivo ao uso de corticoide inalado.
 ## Asma Alérgica:
 - Resposta Th2;
 - Eosinofilia;
@@ -25,11 +31,11 @@
 #Sibilos #Tosse #Dispneia
 - Sibilância;
 	- Principalmente expiratório;
->[!warning]
+>[!warning] Atenção!
 >Sibilância inspiratória e expiratória pode indicar maior gravidade.
 - Tosse
 	- Geralmente seca;
-- Opressão torácica;
+- Opressão torácica (aperto no peito);
 - Dispneia;
 - Piora á noite e ao despertar;
 - Deflagrados por **quadro viral, riso, choro, exercício**;
@@ -45,6 +51,10 @@
 >[!info]
 >O VEF1/CVF também pode ser chamado de **índice de tiffeneau**;
 
+→==Prova broncodilatadora na espirometria==:
+- 200-400mcg de salbutamol via inalatória;
+- Espirometria após 15-20 min;
+- **Prova positiva**: aumento absoluto e percentual do VEF1 ou CVF (>200 ml e 12% do VEF1 ou CVF);
 >[!failure] Limitações da espirometria 
 >- <6 anos;
 >- Expirometria normal não exclui asma;
@@ -55,8 +65,16 @@
 >		- Em crianças: Redução do VEF1 > 12% do previsto (em relação ao basal) OU redução PFE > 15% (em relação ao basal com exercício).
 >	- peak flow
 
+→ ==Como avaliar a variabilidade da limitação do fluxo?==
+1. Resposta a prova com BD
+	- Aumento do VEF1 ou CVF ≥12% E 200 ml ou aumento de PFE ≥20%;
+2. Variação do PFE (2 semanas)
+	- Variabilidade >10%;
+3. Resposta ao tratamento com anti-inflamatório;
+	- Aumento de VEF1 ≥12% E 200ml ou PFE≥20%;
 >[!Success] Atualizou!
 >O **Gina 2024** passou a considerar o Peak Flow como exame diagnóstico devido á baixa disponibilidade e acesso em alguns países.
+>![[Pasted image 20260831115156.png]]
 >Nesse Teste, consideramos a *prova broncodilatadora* como **positiva** com um aumento do Pico de fluxo expiratório ≥20% após o uso de broncodilatador de curta duração;
 ### <6 anos 
 - Diagnóstico muito difícil → baseado na clínica;
@@ -81,6 +99,8 @@
 >1-2: parcialmente controlada
 >3-4: mal controlada
 
+![[Pasted image 20260831105006.png]]
+
 **2.Passo:** Avaliar o risco de exacerbação independente do controle
 - Fatores de risco:
 	- Exacerbação no ano anterior;
@@ -88,10 +108,24 @@
 	- Má adesão ao TTO/técnica incorreta;
 	- Alto uso de SABA (≥3frascos/ano ).
 	- Comorbidades (obesidade, DRGE).
+#### Tratamento Inicial
+- Step 1
+	- Sintomas pouco frequentes (1-2x por semana);
+- Step 2
+	- Sintomas 3-4x por semana;
+- Step3:
+	- Sintomas de asma na maioria dos dias (5-6x) ou despertar por asma pelo menos 1x por semana ou função pulmonar reduzida.
+- Step 4:
+	- Sintomas diários ou despertar noturno 1x/semana e função pulmonar reduzida ou EXACERBAÇÃO recente.
+![[Pasted image 20260831111159.png]]
+## OU
+![[Pasted image 20260831112230.png]]
+
 #### Por Idade
 - Se parcialmente ou mal controlada:
 	- Avaliar técnica e adesão;
 	- Controle ambiental;
+	- Vacinas, atividade física (no adulto não existe uma principal, como a natação em crianças), controle de comorbidades, técnica inalatória e adesão, educação em saúde (automanejo da doença), imunoterapia.
 	- Aumentar Step;
 - Se bem controlada>3m:
 	- Reduzir step:
@@ -103,7 +137,7 @@
 >**SABA**→ Short acting beta-2 agonist;
 >ex: Salbutamol;
 >**LABA**→ Long acting beta-2 agonist;
->	**Formoterol**→ LABA de ação rápida (único que pode ser usado como resgate)
+>	**Formoterol**→ LABA de ação rápida (único que pode ser usado como resgate)- dura muito mas começa a agir rápido
 
 ##### Adultos e Adolescentes
 - Consenso no uso de **corticóide inalatório** e **formoterol**.
@@ -115,7 +149,20 @@
 | Não controlou | 4    | CI + formoterol diário dose média                                |
 | Não controlou | 5    | Referenciar + Adicionar+ LAMA + Avaliar CI+ formoterol alta dose |
 >[!abstract] Como avaliar se a dose é alta, média ou baixa?
->![[Pasted image 20260414121712.png]]
+>![[Pasted image 20260831112434.png]]
+### Tipos de Dispositivos
+- Inaladores pressurizadaos;
+	- Aerolin, Clenil;
+	![[Pasted image 20260831112740.png]]
+- Inaladores de Pó seco: não pode usar espaçador.
+	- Unidose;
+	- Multidose;
+![[Pasted image 20260831112930.png]]
+- Inaladores de névoa suave
+![[Pasted image 20260831113039.png]]
+### Populações específicas
+![[Pasted image 20260831114204.png]]
+![[Pasted image 20260831114333.png]]
 #### Paciente 6-11 anos 
 - **Resgate**: SABA (ou CI+ formoterol a partir do step 3);
 
@@ -147,6 +194,7 @@
 - *Sintomas todo dia/acordando á noite* → **step 3**;
 - *Abriu o quadro com exacerbação/sintomas graves*→ **step 4**.
 ### Pronto Socorro
+![[Pasted image 20260831120815.png|429]]
 - “Crise Asmática”
 -  Aumento progressivo dos sintomas;
 - Desencadeadores:
@@ -180,16 +228,23 @@
 **2.Passo:** Pacote inicial da asma.
 - SABA (ex.: fenoterol)→ Resgate (4-10 puffs 20/20’ em 1h);
 	- GINA: 2 jatos na crise leve// 6 jatos na grave;
-- Corticoide VO ou IV;
+	- Não usar parenteral.
+- Corticoide VO ou IV (iguais);
+	- Prednisona 40-50mg por 5 a 7 dias;
+	- Hidrocortisona 200mg em doses individuais;
+	- Metilprednisolona 20-60mg 12/12h.
 	- 3-5 dias na criança;
 	- 5-7 dias no adulto (1-2 mg/kg);
 - O2 S/N → Alvo:
 	- 93-95% no adulto;
 	- 94-98% na criança.
+- SAMA
+	- Crises moderadas/severas: 40 gotas ou 2 jatos.
 **3. Passo:** SE GRAVE, também o “pacote extra”
 - Resgate SABA + ipatrópio;
 - Avaliar sulfato de magnésio;
 	- Após o resgate, sem melhora;
+>[!prescription] Sulfato de Magnésio 2g diluído em 100ml de SF 0,9% em 20 min.
 - Melhorar suporte de 02;
 	- Evitar IOT (difícil desmame);
 - UTI se ameaçadora de vida;
@@ -204,3 +259,6 @@
 >[!note] 
 > - Budesonida + formoterol- dose máxima total de formoterol 72 mcg (54 mcg por dose) em um dia para adultos e adolescentes;  
 > - Beclometasona + formoterol 100/6 – a mesma dose máxima de formoterol é indicada, o que corresponde a 12 inalações dessa apresentação; Para 6-11 anos: 48 mcg doses metradas por dia (36 mcg de dose efetiva).
+## Reavaliação
+![[Pasted image 20260831115917.png]]
+![[PDF de atualizações 2026 - Grupo MedCof_260806_154312 2 1.pdf]]

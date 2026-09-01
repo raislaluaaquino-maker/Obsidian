@@ -12,6 +12,7 @@
 - Anticoncepcional;
 - 20% indeterminado.
 ![[Pasted image 20260820160634.png]]
+- Granuloma não caseoso: agregado de histiócitos epitelióides circundados por neutrófilos e células gigantes.
 ![[Pasted image 20260820160858.png]]
 - Pedras em calçamento: Chron.
 - Pseudopólipo: RCU
@@ -66,7 +67,7 @@
 	- 5-ASA;→ INDUÇÃO DA REMISSÃO de RCU e Crohn;
 		- E manutenção de RCU.
 - Casos graves:
-	- Corticoide, azatioprina, MTX e anti-TNF alfa (infliximabe→ para forma perianal, fistulizante e grave).
+	- Corticoide, azatioprina, MTX e anti-TNF alfa (infliximabe→ para forma perianal, fistulizante e grave)→ o último se refratariedade da terapia tripla otmizada;.
 		- Manutenção de remissão de Crohn.
 ## Cirurgia na RCU
 - Podemos curar a doença.

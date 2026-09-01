@@ -11,244 +11,17 @@
             "id": "29bc30358220cdce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "5238c256e68e4bca",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Cirurgia/Cirurgia Bariátrica.md",
+                "file": "Preventiva/Bioética e Código de Ética Médica/Bioética.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cirurgia Bariátrica"
-            }
-          },
-          {
-            "id": "a53e46a96e55d752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preventiva/História natural da doença e níveis de prevenção.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "História natural da doença e níveis de prevenção"
-            }
-          },
-          {
-            "id": "01ce3e14bbad0d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preventiva/Transição demográfica e epidemiologia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transição demográfica e epidemiologia"
-            }
-          },
-          {
-            "id": "37b19788ba3cb270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preventiva/Transição demográfica e epidemiologia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transição demográfica e epidemiologia"
-            }
-          },
-          {
-            "id": "5ac83140a8122734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preventiva/História natural da doença e níveis de prevenção.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "História natural da doença e níveis de prevenção"
-            }
-          },
-          {
-            "id": "96375f0918309d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endocrinologia/Diabetes Mellitus/Complicações Agudas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Complicações Agudas"
-            }
-          },
-          {
-            "id": "8371c9f38a32f445",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Imagens/29102908-mini-exame-do-estado-mental-meem.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "29102908-mini-exame-do-estado-mental-meem"
-            }
-          },
-          {
-            "id": "5293e33ba47a15a7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/about_intro.aab897c.svg"
-              },
-              "icon": "lucide-image",
-              "title": "about_intro.aab897c"
-            }
-          },
-          {
-            "id": "d02e57f6ff8e1162",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Imagens/29102908-mini-exame-do-estado-mental-meem.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "29102908-mini-exame-do-estado-mental-meem"
-            }
-          },
-          {
-            "id": "356bec122f9f83ef",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/about_intro.aab897c.svg"
-              },
-              "icon": "lucide-image",
-              "title": "about_intro.aab897c"
-            }
-          },
-          {
-            "id": "3bc8d9c8a91fde87",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Imagens/BASES_SANGRAMENTO_UTERINO_ANORMAL_ACOMPANHAMENTO_20260313015606.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "BASES_SANGRAMENTO_UTERINO_ANORMAL_ACOMPANHAMENTO_20260313015606"
-            }
-          },
-          {
-            "id": "1bbfd4fddcddcc3b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Imagens/c2ba715f-efbf-4539-ade5-91e91f4eb94e_Osteoporose.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "c2ba715f-efbf-4539-ade5-91e91f4eb94e_Osteoporose"
-            }
-          },
-          {
-            "id": "2088fed6404a76a8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Imagens/29102908-mini-exame-do-estado-mental-meem.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "29102908-mini-exame-do-estado-mental-meem"
-            }
-          },
-          {
-            "id": "26cde61d801f4aee",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/about_intro.aab897c.svg"
-              },
-              "icon": "lucide-image",
-              "title": "about_intro.aab897c"
-            }
-          },
-          {
-            "id": "a52e592dfcead268",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Imagens/29102908-mini-exame-do-estado-mental-meem.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "29102908-mini-exame-do-estado-mental-meem"
-            }
-          },
-          {
-            "id": "88016f8ca2074492",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/about_intro.aab897c.svg"
-              },
-              "icon": "lucide-image",
-              "title": "about_intro.aab897c"
-            }
-          },
-          {
-            "id": "3d59e0900acff43b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Imagens/29102908-mini-exame-do-estado-mental-meem.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "29102908-mini-exame-do-estado-mental-meem"
-            }
-          },
-          {
-            "id": "5d607e57bf01cf58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reumatologia/Febre Reumática.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Febre Reumática"
+              "title": "Bioética"
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -425,53 +198,53 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "5d607e57bf01cf58",
+  "active": "29bc30358220cdce",
   "lastOpenFiles": [
-    "Cirurgia/Hérnias.md",
+    "Gineco/Endometriose, Dismenorreia e Infertilidade/Infertilidade.md",
+    "Imagens/Pasted image 20260901093829.png",
+    "Imagens/Pasted image 20260901092806.png",
+    "Imagens/Pasted image 20260901091601.png",
+    "Imagens/Pasted image 20260901090851.png",
+    "Gineco/Endometriose, Dismenorreia e Infertilidade/Endometriose.md",
+    "Imagens/Pasted image 20260901075242.png",
+    "Imagens/Pasted image 20260901075208.png",
+    "Imagens/Pasted image 20260901075038.png",
+    "Imagens/Pasted image 20260901075008.png",
+    "Imagens/Pasted image 20260901073616.png",
+    "Imagens/Pasted image 20260901072159.png",
+    "Gineco/Endometriose, Dismenorreia e Infertilidade/Síndrome Pré-Menstrual ou Distúrbio Disfórico pré-menstrual.md",
+    "Gineco/Endometriose, Dismenorreia e Infertilidade/Dismenorreia.md",
+    "Gastro/Hepatites Agudas/Hepatites Virais.md",
+    "Gineco/Endometriose, Dismenorreia e Infertilidade",
+    "Gastro/Hepatites Agudas/Colangite.md",
+    "Gastro/Hepatites Agudas/Hepatite Autoimune.md",
+    "Gastro/Hepatites Agudas/Hepatite alcoólica.md",
+    "Gastro/Hepatites Agudas/Hepatite Tóxica.md",
+    "Gastro/Hepatites Agudas/Icterícia.md",
     "Preventiva/Vigilância em Saúde e Saúde do trabalhador/Vigilância em saúde e Saúde do Trabalhador.md",
-    "Gineco/Sangramento uterino anormal.md",
-    "Pediatria/Sarcoma Botrióide.md",
-    "Imagens/Pasted image 20260820174550.jpg",
-    "Gastro/Colite Pseudomembranosa.md",
-    "Imagens/Pasted image 20260820172523.png",
-    "Gastro/Diarreias.md",
-    "Pediatria/Gastro/Diarreias/3. Diarreias crônicas/SII.md",
-    "Pediatria/Gastro/Diarreias/3. Diarreias crônicas/Doença Inflamatória Intestinal.md",
-    "Imagens/Pasted image 20260820170513.png",
-    "Imagens/Captura de tela 2026-06-23 191342.png",
-    "Sem título 1.md",
-    "Sem título.base",
-    "Imagens/2026-04-16.md",
-    "Imagens/DII.md",
-    "Imagens/about_intro.aab897c.svg",
+    "Gastro/Hepatites Agudas",
+    "Gastro/Hepatites Agudas.md",
+    "Gastro/Sem título.md",
+    "Pediatria/Distúrbios obstrutivos/Asma.md",
+    "Imagens/PDF de atualizações 2026 - Grupo MedCof_260806_154312 2 1.pdf",
+    "Imagens/PDF de atualizações 2026 - Grupo MedCof_260806_154312 2.pdf",
+    "Preventiva/Bioética e Código de Ética Médica/Bioética.md",
+    "Obstetrícia/Estática Fetal e Mecanismo do Parto/Estática Fetal.md",
+    "Preventiva/Bioética e Código de Ética Médica",
+    "Obstetrícia/Fases Clínicas do Parto.md",
+    "Obstetrícia/Sangramento na Gestação/Sangramento na Segunda Metade da Gestação.md",
+    "Obstetrícia/Sangramento na Gestação/Sangramento na Primeira Metade da Gestação.md",
+    "Obstetrícia/Hemorragia Pós-Parto.md",
+    "Obstetrícia/Estática Fetal e Mecanismo do Parto/Motor e Mecanismo do Parto.md",
+    "Obstetrícia/Sangramento na Gestação",
+    "Obstetrícia/Sangramento na Primeira Metade da Gestação/Sangramento na Primeira Metade da Gestação.md",
+    "Obstetrícia/Sangramento na Primeira Metade da Gestação/Sangramento na 1ª metade da gestação.md",
+    "Imagens/Sangramento na 1ª metade da gestação.md",
+    "Obstetrícia/Sem título/Obstetrícia.md",
+    "Obstetrícia/Sangramento na Primeira Metade da Gestação",
+    "Obstetrícia/Estática Fetal e Mecanismo do Parto",
+    "Obstetrícia",
     "Imagens/29102908-mini-exame-do-estado-mental-meem.pdf",
-    "Imagens/c2ba715f-efbf-4539-ade5-91e91f4eb94e_Osteoporose.pdf",
-    "Imagens/BASES_SANGRAMENTO_UTERINO_ANORMAL_ACOMPANHAMENTO_20260313015606.pdf",
-    "Imagens/BAV-de-segundo-grau-Mobitz-I-1024x340.webp",
-    "Pediatria/Gastro/Diarreias/3. Diarreias crônicas/Doença Celíaca.md",
-    "Pediatria/Gastro/Diarreias/3. Diarreias crônicas/Alergia alimentar.md",
-    "Gastro/Doença Inflamatória Intestinal.md",
-    "Imagens/Pasted image 20260820163515.png",
-    "Imagens/Pasted image 20260820163330.png",
-    "Imagens/Pasted image 20260820162145.png",
-    "Imagens/Pasted image 20260820162050.png",
-    "Preventiva/Vigilância em Saúde e Saúde do trabalhador/Teste.md",
-    "Endocrinologia/Diabetes Mellitus/Complicações Crônicas.md",
-    "Endocrinologia/Diabetes Mellitus/Complicações Agudas.md",
-    "Endocrinologia/Diabetes Mellitus/Diabetes Mellitus.md",
-    "Sem título 2.md",
-    "Cirurgia/Cirurgia Ped/Fimose.md",
-    "Endocrinologia/Diabetes Mellitus",
-    "Endocrinologia",
-    "Cirurgia/Cirurgia Bariátrica.md",
-    "Preventiva/História natural da doença e níveis de prevenção.md",
-    "Sem título",
-    "Preventiva/Vigilância em Saúde e Saúde do trabalhador",
-    "Pediatria/Crescimento e Desenvolviemnto/Distúrbios Puberais.md",
-    "Pediatria/Crescimento e Desenvolviemnto/Distúrbios estaturais.md",
-    "Cardio/Insuficiência Cardíaca.md",
-    "Cardio/Arritmias, Síncope e PCR",
-    "Reumatologia",
     "Cirurgia/Cirurgia Ped/Tumores abdominais/Tumores abdominais.canvas"
   ]
 }

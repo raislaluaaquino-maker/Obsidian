@@ -110,6 +110,21 @@
       "isBold": true,
       "opacity": 0.5,
       "applyToSubfolders": true
+    },
+    "Imagens": {
+      "backgroundColor": "#12302e",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "isItalic": true,
+      "opacity": 0.5,
+      "applyToSubfolders": true
+    },
+    "Obstetrícia": {
+      "backgroundColor": "#ab58fe",
+      "textColor": "#ffffff",
+      "isBold": true,
+      "opacity": 0.6,
+      "applyToSubfolders": true
     }
   },
   "presets": {},
